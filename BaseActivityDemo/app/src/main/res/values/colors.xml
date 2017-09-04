@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 蓝色 -->
+    <color name="blue">#1DA2E7</color>
+<!--    <color name="white">#ffffff</color>-->
+    <color name="white">#EAF5FC</color>
+    <color name="white01">#ffffff</color>
+    <color name="bj_white">#EAF5FC</color>
+    <color name="red">#ff00ff</color>
+    <color name="myred">#f44e28</color>
+    <color name="black">#000000</color>
+    <color name="main_color">#009ff0</color>
+    <color name="main_color_two">#107FBD</color>
+    <color name="text_color_title">#1a1a1a</color>
+    <color name="text_color_second">#545454</color>
+    <color name="cc_btn_off">#ffdedede</color>
+    <color name="gray_divider">#f2f3f8</color>
+    <color name="text_gray">#8c8c8c</color>
+    <color name="home_bottom_gray">#ADADAD</color>
+    <color name="main_text_color">#545454</color>
+    <color name="weixiu">#e5e5e5</color>
+    <color name="gray_one">#DADBE0</color>
+    <color name="gray_goodslist">#F0F0F0</color>
+    <color name="green">#8ED4C6</color>
+    <color name="gray_goodsjianjie">#C8C8C8</color>
+    <color name="goods_detail_title_color">#1a1a1a</color>
+    <color name="goods_detail_price_color">#3EB3F8</color>
+
+    <color name="page_backgroup">#f2f2f2</color>
+    <color name="gray_color1">#333333</color>
+
+    <!-- 黑色（我的账户，背景） -->
+    <color name="black_one">#2B3131</color>
+    <color name="black_two">#4B4C50</color>
+    <!--pupowindow-->
+    <color name="title_bg">#6666FF</color>
+    <!-- 西红柿色 -->
+    <color name="orangered">#ff4500</color>
+    <color name="backgroundColor">#f6f6f6</color>
+    <color name="main_textcolor">#8c8c8c</color>
+    <color name="gray_qian">#F1F6F6</color>
+    <!-- 亮粉红色 -->
+    <color name="orange">#fd7903</color>
+    <!-- 橄榄色 -->
+    <color name="purple">#800080</color>
+    <!-- 淡灰色 -->
+    <color name="crimson">#dc143c</color>
+    <color name="menu_item_press">#2e000000</color>
+    <color name="grey_color2">#666666</color>
+    <color name="grey_color1">#333333</color>
+    <!-- 橙色 -->
+    <color name="orange_color">#de6838</color>
+    <color name="grey_color3">#999999</color>
+
+    <color name="welcom_statusbar">#386CCC</color>
+    <color name="splash_statusbar">#040F2B</color>
+
+    <color name="zise">#ff7b1fa2</color>
+
+    <color name="gray_normal">#666667</color>
+    <color name="font_white_one">#FFFFFF</color>
+
+</resources>

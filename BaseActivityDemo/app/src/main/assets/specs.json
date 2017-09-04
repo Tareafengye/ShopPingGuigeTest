@@ -1,0 +1,169 @@
+{
+  "secondary_headlines": "升力高柴油机油CH-4 小桶4L",
+  "main_img": "1418",
+  "has_receipt": "0",
+  "under_guaranty": "0",
+  "support_replace": "0",
+  "total_sales": "0",
+  "view_cnt": "245",
+  "consignment_time": "0",
+  "contact_name": "",
+  "contact_way": "",
+  "expire_time": "3999999999",
+  "favorite_cnt": "0",
+  "uid": "99",
+  "place_origin": "",
+  "product_code": "",
+  "goods_unit_name": "件",
+  "sku_pkid": "974",
+  "dt_goods_unit": "011",
+  "id": "18",
+  "name": "升力高柴油机油CH-4 小桶4L",
+  "onshelf": "1",
+  "store_id": "12",
+  "weight": "0.00",
+  "synopsis": "包装规格：4L、18L\r\n\r\n粘度（质量）等级：15W\/40、20W\/50\r\n\r\n性能特点：\r\n宝捷升力高系列润滑油采用高品质进口基础油及添加剂精细调配而成；\r\n独有UDD抗磨金刚石技术，在保证引擎高效运转的同时更为其提供卓越的抗磨损保护；\r\n在柴油引擎曲轴轴颈及凸轮轴位置的高温高剪切环境下润滑表现仍然优秀出众；\r\n拥有优秀的清净分散性及烟炱控制能力，有效控制引擎内部油泥和积碳，延长引擎寿命。\r\n适用范围：\r\n本级别产品特别适用于新一代重型高速、高增压及采用电控共轨技术的柴油引擎。\r\n产品满足美国康明斯公司CES20078标准，满足瑞典沃尔沃卡车公司用油认可，超越美国石油协会API CI-4标准。\r\n\r\n",
+  "secondary": "升力高柴油机油CH-4 小桶4L",
+  "template_id": "0",
+  "loc_country": "",
+  "loc_province": "",
+  "loc_city": "",
+  "loc_address": "",
+  "cate_id": "2",
+  "update_time": "1486525297",
+  "sku_list": [
+    {
+      "sku_pkid": "974",
+      "sku_id": "203:893;211:908;",
+      "sku_desc": "颜色:白色;尺寸:XL;",
+      "ori_price": "0",
+      "price": "10000",
+      "quantity": "3000",
+      "product_code": "",
+      "icon_url": "",
+      "price3": "0",
+      "price2": "0",
+      "cnt1": "0",
+      "cnt2": "0",
+      "cnt3": "0"
+    },
+    {
+      "sku_pkid": "975",
+      "sku_id": "203:893;211:963;",
+      "sku_desc": "颜色:白色;尺寸:XL;",
+      "ori_price": "0",
+      "price": "100000",
+      "quantity": "3000",
+      "product_code": "",
+      "icon_url": "",
+      "price3": "0",
+      "price2": "0",
+      "cnt1": "0",
+      "cnt2": "0",
+      "cnt3": "0"
+    },
+    {
+      "sku_pkid": "976",
+      "sku_id": "203:894;211:908;",
+      "sku_desc": "颜色）:白色;尺寸:XL;",
+      "ori_price": "0",
+      "price": "10000",
+      "quantity": "3000",
+      "product_code": "",
+      "icon_url": "",
+      "price3": "0",
+      "price2": "0",
+      "cnt1": "0",
+      "cnt2": "0",
+      "cnt3": "0"
+    },
+    {
+      "sku_pkid": "977",
+      "sku_id": "203:894;211:963;",
+      "sku_desc": "颜色:黑色;尺寸:XXL;",
+      "ori_price": "0",
+      "price": "100000",
+      "quantity": "3001",
+      "product_code": "",
+      "icon_url": "",
+      "price3": "0",
+      "price2": "0",
+      "cnt1": "0",
+      "cnt2": "0",
+      "cnt3": "0"
+    },
+    {
+      "sku_pkid": "978",
+      "sku_id": "203:944;211:908;",
+      "sku_desc": "颜色:白色;尺寸:XL;",
+      "ori_price": "0",
+      "price": "10000",
+      "quantity": "3000",
+      "product_code": "",
+      "icon_url": "",
+      "price3": "0",
+      "price2": "0",
+      "cnt1": "0",
+      "cnt2": "0",
+      "cnt3": "0"
+    },
+    {
+      "sku_pkid": "979",
+      "sku_id": "203:944;211:963;",
+      "sku_desc": "颜色:黑色色;尺寸:XXL;",
+      "ori_price": "0",
+      "price": "100000",
+      "quantity": "3004",
+      "product_code": "",
+      "icon_url": "",
+      "price3": "0",
+      "price2": "0",
+      "cnt1": "0",
+      "cnt2": "0",
+      "cnt3": "0"
+    }
+  ],
+  "sku_info": [
+    {
+      "sku_id": "203",
+      "sku_name": "颜色",
+      "value_list": [
+        {
+          "value_id": "893",
+          "value_name": "白色"
+        },
+        {
+          "value_id": "894",
+          "value_name": "黑色"
+        },
+        {
+          "value_id": "944",
+          "value_name": "蓝色"
+        }
+      ]
+    },
+    {
+      "sku_id": "211",
+      "sku_name": "尺寸",
+      "value_list": [
+        {
+          "value_id": "908",
+          "value_name": "XL"
+        },
+        {
+          "value_id": "963",
+          "value_name": "XXL"
+        },
+        {
+          "value_id": "966",
+          "value_name": "XXL"
+        }
+      ]
+    }
+  ],
+  "business_status": "0",
+  "carousel_images": [
+    "1418"
+  ],
+  "is_fav": "0"
+}
