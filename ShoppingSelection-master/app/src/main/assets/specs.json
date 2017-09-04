@@ -1,0 +1,59 @@
+{
+
+  "sku_info": [
+    {
+      "sku_id": "203",
+      "sku_name": "颜色",
+      "value_list": [
+        {
+          "value_id": "893",
+          "value_name": "白色"
+        },
+        {
+          "value_id": "894",
+          "value_name": "黑色"
+        },
+        {
+          "value_id": "944",
+          "value_name": "蓝色"
+        }
+      ]
+    },
+    {
+      "sku_id": "211",
+      "sku_name": "尺寸",
+      "value_list": [
+        {
+          "value_id": "908",
+          "value_name": "XL"
+        },
+        {
+          "value_id": "963",
+          "value_name": "XXL"
+        },
+        {
+          "value_id": "966",
+          "value_name": "XXL"
+        }
+      ]
+    },
+    {
+      "sku_id": "211",
+      "sku_name": "规格",
+      "value_list": [
+        {
+          "value_id": "908",
+          "value_name": "美女"
+        },
+        {
+          "value_id": "963",
+          "value_name": "帅哥"
+        },
+        {
+          "value_id": "966",
+          "value_name": "萝莉"
+        }
+      ]
+    }
+  ]
+}
